@@ -23,9 +23,10 @@ The code is written and tested for Python 3.11.11. The specific packages used ar
 use the code an environment for Python should be created and the packages stated in the requirements.txt should be 
 installed. The data used is stored in .xlsx and .csv formats, so a viewer that can read this format is required if only 
 interested in data.
+## WARNING
+The code is based on large data files that could not be included on GitHub. It only contains the data required to run the ABM part. If access to the large data files is needed, a request can be sent to my email. The tables underneath do include files, which are not present in this repository.
 
 ### Purpose code files
-
 Various Python files or jupyter notebooks are included. The code files are divided in separate folders based on their 
 purpose. The overall structure of the directory is given underneath. The purpose of each folder will be discussed 
 individually. It must be noted that the main files of the ABM are located in the root directory itself.
