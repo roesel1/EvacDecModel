@@ -7,7 +7,7 @@ This README file was last motified on: 31-07-2025
 Created by: Roelof Kooijman
 
 All questions about the code, thesis, or anything else can be sent to the following email:
-[roelofkooijman@gmail.com](mailto:roelofkooijman@gmail.com)
+[roelofkooijman@gmail.com](mailto:r.kooijman@uu.nl)
 ## Institution: 
 
 Delft University of Technology : Faculty Technology, Policy and Management.
@@ -36,7 +36,6 @@ individually. It must be noted that the main files of the ABM are located in the
         ├── ['Texas']['Harris County']/
         ├── ACSData/                                          
         ├── archives/
-        ├── prullenbak/
         ├── RainData/
         ├── regression models/
         ├── Viz/
