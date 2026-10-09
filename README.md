@@ -4,10 +4,10 @@
 This README file was last motified on: 31-07-2025
 
 ### Author & Contact:
-Created by: Roelof Kooijman
+Created by Roelof Kooijman during master's thesis under the supervision of Natalie van der Wal and Tatiana Filatova
 
 All questions about the code, thesis, or anything else can be sent to the following email:
-[r.kooijman@uu.nl](mailto:r.kooijman@uu.nl)
+[r.kooijman-3@tudelft.nl](mailto:r.kooijman-3@tudelft.nl)
 ## Institution: 
 
 Delft University of Technology : Faculty Technology, Policy and Management.
@@ -97,8 +97,8 @@ the used data files.
 |                                          | [rain.csv](archives/rain.csv)                                                                                                                           | Contains result of model experiment used for verfication                                                                                                  |
 |                                          | [win.csv](archives/win.csv)                                                                                                                             | Contains result of model experiment used for verfication                                                                                                  |
 | RainData                                 | [Miami](RainData/Miami)                                                                                                                                 | Folder containing image (tiff) containing rain data per half an hour per day                                                                              |
-| regression models                        | [LABEL_PADM-PA Survey 2_July 18, 2025_20.24.xlsx](regression%20models/LABEL_PADM-PA%20Survey%202_July%2018%2C%202025_20.24.xlsx)                        | Raw data with label values. Excluded from github for privacy reasons. Contact [r.kooijman@uu.nl](mailto:r.kooijman@uu.nl) if essential    |
-|                                          | [PADM-PA Survey 2_July 17, 2025_13.07_final.xlsx](regression%20models/PADM-PA%20Survey%202_July%2017%2C%202025_13.07_final.xlsx)[Miami](RainData/Miami) | Raw data with numbered values. Excluded from github for privacy reasons. Contact [r.kooijman@uu.nl](mailto:r.kooijman@uu.nl) if essential |
+| regression models                        | [LABEL_PADM-PA Survey 2_July 18, 2025_20.24.xlsx](regression%20models/LABEL_PADM-PA%20Survey%202_July%2018%2C%202025_20.24.xlsx)                        | Raw data with label values. Excluded from github for privacy reasons. Contact r.kooijman-3@tudelft.nl](mailto:r.kooijman-3@tudelft.nl) if essential    |
+|                                          | [PADM-PA Survey 2_July 17, 2025_13.07_final.xlsx](regression%20models/PADM-PA%20Survey%202_July%2017%2C%202025_13.07_final.xlsx)[Miami](RainData/Miami) | Raw data with numbered values. Excluded from github for privacy reasons. Contact [r.kooijman-3@tudelft.nl](mailto:r.kooijman-3@tudelft.nl) if essential |
 | regression models/<br/>reg_results_FINAL | [factor_scores.csv](regression%20models/reg_results_FINAL/factor_scores.csv)                                                                            | Factor score values for tht use of the logistic model in the ABM                                                                                          |
 |                                          | [factor_scores.xlsx](regression%20models/reg_results_FINAL/factor_scores.xlsx)                                                                          | Factor values for training logistic model                                                                                                                 |
 |                                          | [finalized_model.sav](regression%20models/reg_results_FINAL/finalized_model.sav)                                                                        | Contains a logistic regression model for destination choice. Used in the ABM                                                                              |
